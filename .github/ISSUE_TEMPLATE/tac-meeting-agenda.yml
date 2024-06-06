@@ -3,7 +3,9 @@ description: Propose an agenda item to discuss at an upcoming TAC meeting
 title: "AGENDA TOPIC"
 assignees: 
   - maximilien
+  - brian-jarvis-aws
   - Naomi-Wash
+projects: projects/1
 body:
   - type: markdown
     attributes:
