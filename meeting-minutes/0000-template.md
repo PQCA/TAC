@@ -44,3 +44,4 @@ nav_exclude: true
 * [ ] Sophie Schmieg, Google
 * [ ] Brian Jarvis, Amazon Web Services Inc.
 * [ ] Thomas Bailleux, SandboxAQ
+* [ ] Nigel Jones, IBM
