@@ -1,0 +1,121 @@
+
+
+# **Post-Quantum Cryptography Alliance \- Technical Advisory Council (TAC) Meeting 30 May, 2025**
+
+* [Join the meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/98559442147?password=5e9d28b7-97d4-4628-9087-5f359dbf3d80)  
+* Recordings are available on your [Open Profile page](https://openprofile.dev/my-meetings) under Past Meetings  
+* [PQCA Meeting Calendar](https://pqca.org/calendar/)  
+* [Discord Server](https://discord.gg/pqca)
+
+## **Antitrust Policy Notice**
+
+## **Linux Foundation meetings involve participation by industry competitors, and it is the intention of the Linux Foundation to conduct all of its activities in accordance with applicable antitrust and competition laws. It is therefore extremely important that attendees adhere to meeting agendas, and be aware of, and not participate in, any activities that are prohibited under applicable US state, federal or foreign antitrust and competition laws. Examples of types of actions that are prohibited at Linux Foundation meetings and in connection with Linux Foundation activities are described in the Linux Foundation Antitrust Policy available at [linuxfoundation.org/antitrust-policy](https://github.com/PQCA/TAC/blob/gh-pages/meeting-minutes/linuxfoundation.org/antitrust-policy). If you have questions about these matters, please contact your company counsel, or if you are a member of the Linux Foundation, feel free to contact Andrew Updegrove of the firm of Gesmer Updegrove LLP, which provides legal counsel to the Linux Foundation.**
+
+## **Voting Representative Attendance (*Alphabetical by 1st name*)**
+
+### **Premier Member Representatives**
+
+*  Brian Jarvis, Amazon Web Services Inc. \[TAC Chair\]  
+*  Nicklas Körtge (IBM Research Zurich)  
+*  Norman Ashley, Cisco  
+*  Sophie Schmieg, Google (Not attended)  
+* Yarkin Doroz, NVIDIA
+
+### **Project Representatives**
+
+*  Nigel Jones, IBM \[PQCP\]  
+*  Spencer Wilson, U Waterloo \[OQS\]
+
+## **Non-Voting Representative Attendance**
+
+*  Joe Livingston (IBM)
+
+### **LF Staff**
+
+*  Hart Montgomery  
+*  Balaji Ethirajulu
+
+### **Other Attendees**
+
+* Aditya Koranga (CORAN Labs) (TAC Vice chair)  
+* Matvii Kistaiev (IntellectEU) \- Not attended  
+* Miguel Diaz Gonçalves (Portugal customs & Tax authority)  
+* Angel Camacho
+
+
+---
+
+## **Introduction of 1st time attendees**
+
+*  Miguel Diaz Gonçalves (Portugal customs & Tax authority) \- Joining from Portugal.
+
+
+---
+
+## **Announcements**
+
+---
+
+## **TAC rep to outreach committee and Blog \- Balaji Ethirajulu**
+
+Balaji Ethirajulu, as discussed in the board meeting, suggested having a TAC member to participate in the outreach committee to form a bridge between technical and marketing committee. TAC representatives can talk about technology topics and gather key takeaways from the marketing committee and bring it to the technical committee.
+
+Yarkin suggested that Nicholas Harrigan to join the marketing committee. Ethirajulu suggested if Harrigan can also attend TAC meeting and provide marketing updates to TAC. Yarkin will setup a meeting with Harrigan to discuss the possibilities of engagement.
+
+Ethirajulu also suggested that TAC members and other PQCA members can write blogs on different topics around PQCA. He mentioned that he will create an excel sheet with initial suggested topics and share it with TAC members, so they can decide and come up with various blog topics
+
+Brian Jarvis also stated that from the retrospective discussions, lots of interest shown by the TAC members regarding marketing of PQCA.  
+
+---
+
+## **OQS Update \-Spencer Wilson**
+
+* Shipped 13.0 Lipos release. This is the first release that includes MLKEM native code. Improved some of the onramp signatures on the experimental side. Added some features for seed handling for MLKEM.  
+* Launched our community survey as part of our presentation at ICMC. Reviewed initial results of the survey in the TSC. According to initial results of the survey, there are a number of people using the OQS, but not participating in the meeting and not involved in GitHub. They might be interested in joining us. We can reach out to them and hopefully they can join us and contribute to the code base.
+
+---
+
+## **PQCP Update \-Nigel Jones**
+
+* We need to work on the TSC meeting times. We split the meeting to accommodate time zones, but resulted in less participation. So, we may have to look into combining them  
+* We plan to conduct a voting for the TSC lead. The current term ends on May 16th. Nigel Jones mentioned that he will post it on the GitHub, and discord channels and asked anyone interested, please apply.
+
+---
+
+## **Tools WG Update \-Nicklas Kortge**
+
+* Nicklas Kortge stated that they worked on CBOM kit blogpost and discussed in the working group and there were no objections. He mentioned that the team will finalize in the next meeting.  
+* There is currently some restriction in allowing us to pull the packages as github is private.  
+* Kortge stated that they got approval to move the sono queue to move from IBM org to LF.  
+* One person from Siemens health used sonic plugin and she will provide feedback about the sonic plugin in the next meeting.  
+* Kortge asked if any procedure need to be followed in moving the code from IBM to LF, Hart mentioned contacting Rye. Kortge will reach out to Rye via an email
+
+---
+
+## **Old Business**
+
+* 
+
+---
+
+## **New Business**
+
+* 
+
+---
+
+## **Open Action Items / Issues Review**
+
+**Action items that came out of Retrospective discussions:**
+
+- Brian discussed some of the items that came out of retrospective discussions.  
+- Max opened retrospective items as issues under PQCA/TAC github for further follow up  
+  - Recruiting talent to participate in PQCA  
+  - Dedicated small team concept (example MLKEM to OQS)  
+  - LFX data usage; LFX data provides several insights. **Action \- Request for a guest presenter to go over the LFX insights.**  
+  - TAC meetings times discussed.  
+  - Bridge between TAC and outreach committee (TAC representative)  
+  - Blog strategy/topics \- **Action \- Balaji** to share an initial draft of blog ideas in an excel sheet withTAC team, so TAC members can review/update and decide on monthly blog topics.  
+- 3 weeks GAP for the next meeting  
+- 
+
