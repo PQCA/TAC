@@ -1,0 +1,110 @@
+
+
+# **Post-Quantum Cryptography Alliance \- Technical Advisory Council (TAC) Meeting 4 June, 2025**
+
+* [Join the meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/98559442147?password=5e9d28b7-97d4-4628-9087-5f359dbf3d80)  
+* Recordings are available on your [Open Profile page](https://openprofile.dev/my-meetings) under Past Meetings  
+* [PQCA Meeting Calendar](https://pqca.org/calendar/)  
+* [Discord Server](https://discord.gg/pqca)
+
+## **Antitrust Policy Notice**
+
+## **Linux Foundation meetings involve participation by industry competitors, and it is the intention of the Linux Foundation to conduct all of its activities in accordance with applicable antitrust and competition laws. It is therefore extremely important that attendees adhere to meeting agendas, and be aware of, and not participate in, any activities that are prohibited under applicable US state, federal or foreign antitrust and competition laws. Examples of types of actions that are prohibited at Linux Foundation meetings and in connection with Linux Foundation activities are described in the Linux Foundation Antitrust Policy available at [linuxfoundation.org/antitrust-policy](https://github.com/PQCA/TAC/blob/gh-pages/meeting-minutes/linuxfoundation.org/antitrust-policy). If you have questions about these matters, please contact your company counsel, or if you are a member of the Linux Foundation, feel free to contact Andrew Updegrove of the firm of Gesmer Updegrove LLP, which provides legal counsel to the Linux Foundation.**
+
+## **Voting Representative Attendance (*Alphabetical by 1st name*)**
+
+### **Premier and General Member Representatives**
+
+*  Brian Jarvis, Amazon Web Services Inc. \[TAC Chair\]  
+*  Nicklas Körtge (IBM Research Zurich) \- Not attended  
+*  Norman Ashley, Cisco (Not attended)  
+*  Sophie Schmieg, Google (Not attended)  
+*  Yarkin Doroz, NVIDIA  
+* Michael Maximilien (IBM)  
+* JP Lomas (QRL)
+
+### **Project Representatives**
+
+*  Nigel Jones, IBM \[PQCP\]  
+*  Spencer Wilson, U Waterloo \[OQS\]  
+* Matthias Kannwischer (TSR)
+
+## **Non-Voting Representative Attendance**
+
+* Joe Livingston (IBM)  
+* Andreas Schade (IBM) (Representing Niklas Kortge)  
+* Prevek Sharma (University of waterloo)
+
+### **LF Staff**
+
+*  Hart Montgomery  
+*  Balaji Ethirajulu
+
+### **Other Attendees**
+
+* Aditya Koranga (CORAN Labs) (TAC Vice chair)  
+* Matvii Kistaiev (IntellectEU) \- Not attended  
+* Miguel Diaz Gonçalves (Portugal customs & Tax authority)  
+* Angel Camacho 
+
+
+---
+
+## **Introduction of 1st time attendees**
+
+* Andreas Schade (IBM) (Representing Niklas Kortge) from IBM research, Zurich.  
+* JP Lomas from QRL.
+
+---
+
+## **LFX tool presentation** 
+
+Brian Jarvis started the meeting. One of the key actions from the previous meeting is to invite Kieran McDermott to present the capabilities of LFX tool.
+
+Kieran presented the LFX tool capabilities to the TAC. He explained the individual & organization dash board, project view of the insights and various screens & menu’s. For example, contributor’s leader board, active contributors, organization leader board, pull requests, popularity etc.
+
+Brian Jarvis mentioned if we can filter the names of the people to filter out the LF staff. McDermott took the feedback in his notes.
+
+Hart Montgomery asked Kieran to talk about the base line security aspects incorporating open SSF badging etc. Kieran mentioned that they are collaborating with the Open SSF community for base line security.  
+McDermott mentioned as they receive feedback from the community, they incorporate them in the next releases.
+
+---
+
+## **OQS Update \- Pravek Sharma**
+
+* Pravek Sharma was filling in for Spencer Wilson. He mentioned that not much to fill in this week.  
+* There was an OQS provider release last week.  
+* Jarvis asked about the OQS survey. Pravek is not directly involved in this survey. We can discuss when Douglas Stebila comes back.
+
+---
+
+## **PQCP Update \- Matthias Kannwischer**
+
+* Matthias is the new PQCP TSC lead.  
+* There was a new major release of ML \- Code native \- V1  
+* Kannwischer also mentioned that Liboqs and AWS LC are the two main consumers of this release. He requested for any feedback.  
+    
+  ---
+
+## **Tools WG Update \- Andreas Schade**
+
+* Andreas Schade mentioned that IBM has donated the CBOM related project to PQCA Tooling group.   
+* Now they can generate the CBOM files from GitHub repositories.  
+* Jarvis mentioned that there was a demo 1 year back and Schade mentioned that was only part of the tool.  
+* Schade mentioned that they can do a demo based on the latest version to the team.  
+* Andreas mentioned that the CBOM blog is ready and submitted via the blog link in the PQCA website.  
+  **Action:** Ethirajulu to check if the blog is received
+
+---
+
+## **New Business**
+
+* 
+
+---
+
+## **Open Action Items / Issues Review**
+
+- Brian mentioned that TSC teams can plan for their blogs in their respective meetings. We will add all the planned blogs in the excel sheet.   
+- TAC and TSC team will plan their blog strategy \- topics/content, and release cadence of blogs. Once the Blog is reviewed and approved by TAC/TSC, Ethirajulu will plan to publish it on our PQCA page.
+
