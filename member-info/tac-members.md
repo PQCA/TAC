@@ -9,18 +9,18 @@ nav_order: 1
 
 # The Post-Quantum Cryptography Alliance TAC
 
-2024 term:
-
 * [Norman Ashley, Cisco][ashman-p]
-* [Michael (Max)imilien, IBM, Chair][maximilien]
 * [Yarkin Doroz, NVIDIA][yarkin-doroz]
+* [Brian Jarvis, Amazon, Chair][brian-jarvis-aws]
+* [Matthias Kannwischer, Chelpis Quantum Tech][mkannwischer]
+* [Aditya Koranga, Vice-Chair][AdityaKoranga]
+* [Michael (Max)imilien, IBM][maximilien]
 * [Sophie Schmieg, Google][sophieschmieg]
-* [Brian Jarvis, Amazon Web Services Inc.][brian-jarvis-aws]
-* [Spencer Wilson, University of Waterloo][SWilson4]
 
 Emeritus:
 
 * [Thomas Bailleux][zadlg]
+* [Spencer Wilson][SWilson4]
 
 
 [ashman-p]: https://github.com/ashman-p
@@ -30,3 +30,5 @@ Emeritus:
 [sophieschmieg]: https://github.com/sophieschmieg
 [SWilson4]: https://github.com/SWilson4
 [zadlg]: https://github.com/zadlg
+[AdityaKoranga]: https://github.com/AdityaKoranga
+[mkannwischer]: https://github.com/mkannwischer
