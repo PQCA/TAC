@@ -1,0 +1,6 @@
+---
+meeting-minutes:
+  - changed-files:
+      - any-glob-to-any-file:
+          - meeting-minutes/**/*
+
