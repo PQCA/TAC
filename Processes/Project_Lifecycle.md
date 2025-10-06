@@ -184,6 +184,6 @@ Projects in this stage are not in active development. Their maintainers may infr
 Projects may be granted Emeritus Stage status via a two-thirds supermajority vote from the TAC and with approval from project ownership. In cases where project ownership is lacking, only a two-thirds supermajority vote from the TAC is required.
 
 ## IV. Annual Review Process
-Each project shall develop an annual review process to determine the status of its lifecycle stage and that it accurately reflects the project's needs and goals.
+Each project shall develop an annual review process to determine the status of its lifecycle stage and that it accurately reflects the project's needs and goals. All lifecycle stage decisions must be reviewed and approved by the TAC.
 
 The TAC shall review this document on an annual basis. Changes to this document can be proposed and accepted at any time through issues on the PQCA GitHub repository.
