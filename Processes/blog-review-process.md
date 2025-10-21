@@ -32,6 +32,16 @@ All communication and collaboration occur via the **content-review@lists.pqca.or
 | Christina Harter | Linux Foundation | Program Manager |
 | Min Yu | Linux Foundation | Program Manager |
 
+
+If the blog content mentions a particular PQCA project, the TSC lead for that project will also be asked to review: 
+
+
+| Name | Company | PQCA Project |
+| :---- | :---- | :---- |
+| Douglas Stebila | University of Waterloo | OQS TSC Lead |
+| Matthias Kannwischer| Chelpis Quantum Tech | PQCP TSC Lead |
+| ? | ? | CBOMkit TSC Lead |
+
 ---
 
 ### **Step 1: Submission & Distribution**
