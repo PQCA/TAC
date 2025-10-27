@@ -48,7 +48,7 @@ If the blog content mentions a particular PQCA project, the TSC lead for that pr
 
 * When a blog post is submitted through the [PQCA Marketing Submission Form](https://form.asana.com/?k=CZt-jGD_z2Pi5Z_BJRX8_g&d=9283783873717), the **Program Manager (PM)** reviews it for completeness.
 
-* Within **1 business day**, the PM sends a Google Doc link to the **content-review@lists.pqca.org** mailing list for review.
+* Within **1 business day**, the PM sends a Google Doc link to the **content-review@lists.pqca.org** mailing list, as well as the TSC lead of any project referenced in the blog content, for review.
 
 * The email will include the blog title, author, and proposed publication date.
 
