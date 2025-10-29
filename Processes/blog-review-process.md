@@ -18,29 +18,7 @@ All communication and collaboration occur via the **content-review@lists.pqca.or
 
 ### **Content Review Team Members**
 
-| Name | Company | PQCA Affiliation |
-| :---- | :---- | :---- |
-| Aditya Koranga | NgKore | TAC Vice Chair, Community Member |
-| anithapriyanatarajan@gmail.com | ? | ? |
-| Brian Jarvis | AWS | TAC Chair, Board Member |
-| Carlos Aguilar Melchor | SandboxAQ | Board Member, General Member Representative |
-| Hanno Becker | AWS | Premier Member |
-| Hart Montgomery | Linux Foundation | Head of PQCA |
-| Michael Maximilien | IBM | Premier Member |
-| Nigel Jones | IBM | Project Representative (PQCP) |
-| Prabhakar Pujeri | ? | ? |
-| Christina Harter | Linux Foundation | Program Manager |
-| Min Yu | Linux Foundation | Program Manager |
-
-
-If the blog content mentions a particular PQCA project, the TSC lead for that project will also be asked to review: 
-
-
-| Name | Company | PQCA Project |
-| :---- | :---- | :---- |
-| Douglas Stebila | University of Waterloo | OQS TSC Lead |
-| Matthias Kannwischer| Chelpis Quantum Tech | PQCP TSC Lead |
-| ? | ? | CBOMkit TSC Lead |
+View the list of current content review team members [here](https://docs.google.com/spreadsheets/d/1HF0Q8FkdjAAh2tHSrNnMZhu_oZRrkQcR_oRKZDCIgGY/edit?usp=sharing). 
 
 ---
 
