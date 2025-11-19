@@ -1,8 +1,8 @@
-## **PQCA Blog Content Review Process**
+## **PQCA Content Content Review Process**
 
 ### **Overview**
 
-The **PQCA Content Review Team** ensures that all blog submissions align with the alliance’s mission, maintain technical accuracy, and reflect the professionalism of the PQCA community.
+The **PQCA Content Review Team** ensures that all blog submissions, webinar submissions and technical project posts on social media align with the alliance’s mission, maintain technical accuracy, and reflect the professionalism of the PQCA community.
 
 The team is composed of:
 
@@ -24,11 +24,11 @@ View the list of current content review team members [here](https://docs.google.
 
 ### **Step 1: Submission & Distribution**
 
-* When a blog post is submitted through the [PQCA Marketing Submission Form](https://form.asana.com/?k=CZt-jGD_z2Pi5Z_BJRX8_g&d=9283783873717), the **Program Manager (PM)** reviews it for completeness.
+* When content is submitted through the [PQCA Marketing Submission Form](https://form.asana.com/?k=CZt-jGD_z2Pi5Z_BJRX8_g&d=9283783873717), the **Program Manager (PM)** reviews it for completeness.
 
-* Within **1 business day**, the PM sends a Google Doc link to the **content-review@lists.pqca.org** mailing list, as well as the TSC lead of any project referenced in the blog content, for review.
+* Within **1 business day**, the PM sends a Google Doc link to the **content-review@lists.pqca.org** mailing list, as well as the TSC lead of any project referenced in the content, for review.
 
-* The email will include the blog title, author, and proposed publication date.
+* The email will include the content title, author, and proposed publication date.
 
 ---
 
@@ -44,7 +44,7 @@ View the list of current content review team members [here](https://docs.google.
   * Grammar, readability, and flow
 
 * Reviewers who provide feedback should **reply all** to the submission email to confirm their review.  
-* If no replies are received within one week, the blog will be considered **approved as-is** and scheduled for publication.
+* If no replies are received within one week, the content will be considered **approved as-is** and scheduled for publication.
 
 ---
 
@@ -54,15 +54,15 @@ View the list of current content review team members [here](https://docs.google.
 
 * If **no changes** were requested, the Program Manager will notify the author and confirm the planned publication schedule.
 
-* By default, blogs are published at **9:00 AM PT on the next business day**, unless the author requests a different date or time. However, **PQCA staff may recommend an alternate publication schedule** to help **stagger posts and maximize visibility** across communication channels.
+* By default, content is published at **9:00 AM PT on the next business day**, unless the author requests a different date or time. However, **PQCA staff may recommend an alternate publication schedule** to help **stagger posts and maximize visibility** across communication channels.
 
 ---
 
 ### **Step 4: Final Approval & Publication**
 
-* Once the author approves the final version, the **Program Manager** posts the blog to [**pqca.org/blog**](http://pqca.org/blog) and to the [PQCA LinkedIn page](https://www.linkedin.com/company/post-quantum-cryptography-alliance).
+* Once the author approves the final version, the **Program Manager** posts the content to [**pqca.org/blog**](http://pqca.org/blog) and to the [PQCA LinkedIn page](https://www.linkedin.com/company/post-quantum-cryptography-alliance).
   
-* The PM then shares the **final blog link** and corresponding **LinkedIn post** with the **Content Review Team** via email to confirm publication.
+* The PM then shares the **final contenet link** and corresponding **LinkedIn post** with the **Content Review Team** via email to confirm publication.
 
 * The published post will also be distributed to the **PQCA Outreach Committee mailing list** (outreach-committee@lists.pqca.org).
 
@@ -70,5 +70,5 @@ View the list of current content review team members [here](https://docs.google.
 
 ### **Step 5: Promotion & Amplification**
 
-* Content Review Team members are encouraged to share the published blog post on their **personal and organizational social channels** to help amplify community visibility and engagement.
+* Content Review Team members are encouraged to share the published content on their **personal and organizational social channels** to help amplify community visibility and engagement.
 
