@@ -1,19 +1,18 @@
 ---
 layout: default
 title: YYYY-MM-DD TAC Meeting Record
-parent: Meeting Minutes
-grand_parent: PQCA TAC
-nav_exclude: true
+parent: 2025
+grand_parent: Meeting Minutes
 ---
 <mark>_Copy this template to the subdirectory for the current year and name the file `YYYY-MM-DD-TAC-meeting.md` (e.g., `2023-02-02-TAC-meeting.md`). Update the information above to change the `title` (e.g., `2023-02-16 TAC Meeting Record`, the `parent` to `YYYY` (e.g., 2023), the `grand_parent` to `Meeting Minutes`, and remove the `nav_exclude` line. Update the links below to reflect the appropriate image location (e.g., `../images/`). Text between `<mark></mark>` are instructions. Please remove when section has been completed._
 </mark>
 
 # Post-Quantum Cryptography Alliance - Technical Advisory Council (TAC) Meeting DD Month, 20YY
 [**View Recording**] 
-*Recordings are available on your [Open Profile](https://openprofile.dev/my-meetings) page under Past Meetings*  
+*Recordings are also available on your [Open Profile](https://openprofile.dev/my-meetings) page under Past Meetings*  
 [**Join the meeting**](https://zoom-lfx.platform.linuxfoundation.org/meeting/98559442147?password=5e9d28b7-97d4-4628-9087-5f359dbf3d80)  
 [**PQCA Meeting Calendar**](https://pqca.org/calendar/)  
-[**Discord Server**](https://discord.gg/pqca)
+[**Discord Server**](https://discord.pqca.org ))
 
 ---
 
