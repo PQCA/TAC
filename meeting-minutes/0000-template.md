@@ -1,10 +1,10 @@
 ---
 layout: default
 title: YYYY-MM-DD TAC Meeting Record
-parent: 2025
+parent: 2026
 grand_parent: Meeting Minutes
 ---
-<mark>_Copy this template to the subdirectory for the current year and name the file `YYYY-MM-DD-TAC-meeting.md` (e.g., `2023-02-02-TAC-meeting.md`). Update the information above to change the `title` (e.g., `2023-02-16 TAC Meeting Record`, the `parent` to `YYYY` (e.g., 2023), the `grand_parent` to `Meeting Minutes`, and remove the `nav_exclude` line. Update the links below to reflect the appropriate image location (e.g., `../images/`). Text between `<mark></mark>` are instructions. Please remove when section has been completed._
+<mark>_Copy this template to the subdirectory for the current year and name the file `YYYY-MM-DD-TAC-meeting.md` (e.g., `2023-02-02-TAC-meeting.md`). Update the information above to change the `title` (e.g., `2026-01-14 TAC Meeting Record`, the `parent` to `YYYY` (e.g., 2026), the `grand_parent` to `Meeting Minutes`. Update the links below to reflect the appropriate image location (e.g., `../images/`). Text between `<mark></mark>` are instructions. Please remove when section has been completed._
 </mark>
 
 # Post-Quantum Cryptography Alliance - Technical Advisory Council (TAC) Meeting DD Month, 20YY
@@ -30,7 +30,6 @@ Linux Foundation meetings involve participation by industry competitors, and it 
 * [ ] Michael Maximilien, IBM
 * [ ] Nicklas Körtge, IBM Research Zurich
 * [ ] Norman Ashley, Cisco
-* [ ] Yarkin Doroz, NVIDIA
 
  ### Project Representatives
 * [ ] Matthias Kannwischer, TSR
@@ -40,7 +39,7 @@ Linux Foundation meetings involve participation by industry competitors, and it 
 ### Member Companies
 * [ ] Andreas Schade, IBM
 * [ ] Joe Livingston, IBM 
-* [ ] Prevek Sharma, University of Waterloo
+* [ ] Pravek Sharma, University of Waterloo
 
 ### LF Staff 
 * [ ] Christina Harter 
