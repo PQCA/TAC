@@ -32,12 +32,12 @@ Linux Foundation meetings involve participation by industry competitors, and it 
 * [ ] Norman Ashley, Cisco
 
  ### Project Representatives
-* [ ] Matthias Kannwischer, TSR
+* [ ] Matthias Kannwischer, TSR (PQCP)
+* [ ] Andreas Schade, IBM (CBOMkit)
 
 ## Non-Voting Representative Attendance
 
 ### Member Companies
-* [ ] Andreas Schade, IBM
 * [ ] Joe Livingston, IBM 
 * [ ] Pravek Sharma, University of Waterloo
 
@@ -68,7 +68,17 @@ xxx
 ---
 
 ### **Project Updates**
-xxx
+- OQS
+  - 
+x
+
+- PQCP
+  - 
+x
+
+- CBOMkit
+  - 
+x
 
 ---
 
