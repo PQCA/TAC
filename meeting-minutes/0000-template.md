@@ -25,27 +25,22 @@ Linux Foundation meetings involve participation by industry competitors, and it 
 ## Voting Representative Attendance (_Alphabetical by 1st name_)
 ### Premier Member Representatives
 
-* [ ] Brian Jarvis, Amazon Web Services Inc. [TAC Chair]
-* [ ] JP Lomas, QRL
+* [ ] Brian Jarvis, AWS [TAC Chair]
 * [ ] Michael Maximilien, IBM
-* [ ] Nicklas Körtge, IBM Research Zurich
-* [ ] Norman Ashley, Cisco
+* [ ] Norman Ashley, Cisco (OQS Rep)
+* [ ] Sophie Schmieg, Google
 
  ### Project Representatives
-* [ ] Matthias Kannwischer, TSR (PQCP)
+* [ ] Matthias Kannwischer, TCR
+* [ ] Hanno Becker, AWS (PQCP)
 * [ ] Andreas Schade, IBM (CBOMkit)
 
 ## Non-Voting Representative Attendance
-
-### Member Companies
-* [ ] Joe Livingston, IBM 
-* [ ] Pravek Sharma, University of Waterloo
 
 ### LF Staff 
 * [ ] Christina Harter 
 * [ ] Hart Montgomery 
 * [ ] Min Yu
-* [ ] Ry Jones
 
 ### Other Attendees
 * [ ] Aditya Koranga, NgKore \[TAC Vice Chair\]
