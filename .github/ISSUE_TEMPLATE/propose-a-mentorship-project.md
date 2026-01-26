@@ -1,11 +1,100 @@
----
-name: Propose a Mentorship Project
-about: Propose a project for the PQCA Mentorship program.
-title: '2026: Provide a short but descriptive title of what the mentorship project
-  is.'
-labels: Mentorship, TAC Review
-assignees: ''
+name: "Mentorship Project"
+description: Propose a Mentorship Project
+title: "2026: Provide a short but descriptive title of what the mentorship project is."
+labels: ["Mentorship", "TAC Review"]
+body:
+  - type: dropdown
+    id: pqca-project
+    attributes:
+      label: PQCA Project
+      description: |
+        List the Post Quantum Cryptography Alliance Project that this mentorship is related to.
+      multiple: false
+      options:
+        - CBOMkit
+        - Open Quantum Safe (OQS)
+        - PQ Code Package (PQCP)
+        - Other (Research, etc.)
+    validations:
+      required: true
 
----
+  - type: textarea
+    id: github-repo
+    attributes:
+      label: GitHub Repo
+      description: |
+        Please list the primary GitHub Repo URL. This URL will be used to display the repository statistics on your LFX mentorship page, as well as to provide a link to the project’s repository.      
+    validations:
+      required: true
+      
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: |
+        Describe the project scope and the overall objective, the problem/opportunity in need of effort, and probable implementation path to explore and fix the problem or realize the opportunity. Provide sufficient details but keep it concise up to 200 words at maximum. See examples from CNCF mentorships https://github.com/cncf/mentoring/tree/main/programs/lfx-mentorship/2026/01-Mar-May
+    validations:
+      required: true
 
+  - type: textarea
+    id: learning-objectives
+    attributes:
+      label: Learning Objectives
+      description: |
+        List 3-5 bullet points what the mentee will learn/develop/grow as an open source contributor through this experience. Well-defined learning objectives demonstrate a well-organized and robust project and pave the path for providing a positive internship/mentorship experience.
+    validations:
+      required: true
 
+  - type: textarea
+    id: expected-outcome
+    attributes:
+      label: Expected Outcome and Deliverables
+      description: |
+        List 3-5 deliverables to be produced as the output of the project e.g. features/application(s)/report(s)/research/documentation, etc.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: skills
+    attributes:
+      label: Recommended Skills
+      description: |
+        Choose which skills, abilities, technical knowledge, training or educational background is required and/or desired for successfully completing the project.
+      multiple: true
+      options:
+        - C programming 
+        - Python programming 
+        - Make and build systems 
+        - Interest in cryptographic implementations and post-quantum cryptography 
+        - Security-focused development practices and constant-time analysis 
+        - Testing frameworks, CI/CD, or build system experience
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: other-skills
+    attributes:
+      label: Other Skills
+      description: |
+         List any other skills, abilities, technical knowledge, training or educational background required and/or desired for successfully completing the project.
+    validations:
+      required: true
+      
+  - type: textarea
+    id: contacts
+    attributes:
+      label: Mentor(s) Names and Contact Info
+      description: |
+        Full Name, email, GitHub profile, Discord, company affiliation (optional)
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Information
+      description: |
+        Provide links to wiki entries, GitHub repos, release-plan notes, and/or other web-references that would be helpful information for others to obtain additional pertinent information about the project.
+    validations:
+      required: true
