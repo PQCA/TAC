@@ -11,7 +11,7 @@ nav_order: 3
 
 # PQCA TAC Meetings
 
-Insert cadence here
+Every other Wednesday at 7:00am Pacific.
 
 # Who Can Attend
 
