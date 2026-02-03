@@ -54,31 +54,15 @@ body:
     validations:
       required: true
 
-  - type: dropdown
+  - type: textarea
     id: skills
     attributes:
       label: Recommended Skills
       description: |
-        Choose which skills, abilities, technical knowledge, training or educational background is required and/or desired for successfully completing the project.
-      multiple: true
-      options:
-        - C programming 
-        - Python programming 
-        - Make and build systems 
-        - Interest in cryptographic implementations and post-quantum cryptography 
-        - Security-focused development practices and constant-time analysis 
-        - Testing frameworks, CI/CD, or build system experience
-        - Other
-    validations:
-      required: true
-
-  - type: textarea
-    id: other-skills
-    attributes:
-      label: Other Skills
-      description: |
-         List any other skills, abilities, technical knowledge, training or educational background required and/or desired for successfully completing the project.
-    validations:
+         List which skills, abilities, technical knowledge, training or educational background is required and/or desired for successfully completing the project.
+        Examples include: C programming, Python programming, Make and build systems, Interest in cryptographic implementations and post-quantum cryptography, Testing frameworks, CI/CD, or build system experience, etc.
+   
+      validations:
       required: true
       
   - type: textarea
