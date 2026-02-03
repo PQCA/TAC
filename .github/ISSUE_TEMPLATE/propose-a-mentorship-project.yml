@@ -59,8 +59,7 @@ body:
     attributes:
       label: Recommended Skills
       description: |
-         List which skills, abilities, technical knowledge, training or educational background is required and/or desired for successfully completing the project.
-        Examples include: C programming, Python programming, Make and build systems, Interest in cryptographic implementations and post-quantum cryptography, Testing frameworks, CI/CD, or build system experience, etc.
+         List which skills, abilities, technical knowledge, training or educational background is required and/or desired for successfully completing the project. Examples include: C programming, Python programming, Make and build systems, Interest in cryptographic implementations and post-quantum cryptography, Testing frameworks, CI/CD, or build system experience, etc.
    
       validations:
       required: true
