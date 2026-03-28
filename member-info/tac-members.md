@@ -12,7 +12,7 @@ nav_order: 1
 * [Norman Ashley, Cisco][ashman-p]
 * [Yarkin Doroz, NVIDIA][yarkin-doroz]
 * [Brian Jarvis, Amazon, Chair][brian-jarvis-aws]
-* [Matthias Kannwischer, Chelpis Quantum Tech][mkannwischer]
+* [Matthias Kannwischer, zeroRISC][mkannwischer]
 * [Aditya Koranga, Vice-Chair][AdityaKoranga]
 * [Michael (Max)imilien, IBM][maximilien]
 * [Sophie Schmieg, Google][sophieschmieg]
