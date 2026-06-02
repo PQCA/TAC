@@ -1,0 +1,80 @@
+---
+layout: default
+title: YYYY-MM-DD TAC Meeting Record
+parent: 2026
+grand_parent: Meeting Minutes
+---
+
+# Post-Quantum Cryptography Alliance - Technical Advisory Council (TAC) Meeting
+
+[**View AI Meeting Summary**] 
+
+[**View Recording**] 
+
+*Recording, Transcript and AI Meeting Summary for all PQCA TAC meetings can be found on the [**PQCA Meeting Calendar**](https://pqca.org/calendar/) and on your [**LFX Profile**](https://openprofile.dev/my-meetings) page under Past Meetings. 
+
+[**Join the Meeting**](https://zoom-lfx.platform.linuxfoundation.org/meeting/98559442147?password=5e9d28b7-97d4-4628-9087-5f359dbf3d80)  
+ 
+[**Join us on Discord**](https://discord.pqca.org )
+
+---
+
+### **Antitrust Policy Notice**
+
+Linux Foundation meetings involve participation by industry competitors, and it is the intention of the Linux Foundation to conduct all of its activities in accordance with applicable antitrust and competition laws. It is therefore extremely important that attendees adhere to meeting agendas, and be aware of, and not participate in, any activities that are prohibited under applicable US state, federal or foreign antitrust and competition laws. Examples of types of actions that are prohibited at Linux Foundation meetings and in connection with Linux Foundation activities are described in the Linux Foundation Antitrust Policy available at [linuxfoundation.org/antitrust-policy](https://linuxfoundation.org/antitrust-policy). If you have questions about these matters, please contact your company counsel, or if you are a member of the Linux Foundation, feel free to contact Andrew Updegrove of the firm of Gesmer Updegrove LLP, which provides legal counsel to the Linux Foundation.
+
+---
+
+## Voting Representative Attendance
+### Premier Member Representatives
+
+* [ ] Brian Jarvis, AWS
+* [ ] Michael Maximilien, IBM
+* [ ] Norman Ashley, Cisco (OQS Rep)
+* [ ] Sophie Schmieg, Google
+
+ ### Project Representatives
+* [ ] Matthias Kannwischer, TCR
+* [ ] Hanno Becker, AWS (PQCP)
+* [ ] Andreas Schade, IBM (CBOMkit)
+* [ ] Aditya Koranga, NgKore \[TAC Chair\]
+
+## Non-Voting Representative Attendance
+
+### LF Staff 
+* [ ] Christina Harter 
+* [ ] Hart Montgomery 
+
+### Other Attendees
+* [ ] *Enter other attendees*
+
+---
+# Meeting Agenda
+*To be entered by TAC Chair before each meeting*
+
+# New Attendees
+- Please introduce yourself.
+
+# Announcements
+- Add any new announcements or updates here.
+
+# Discussion
+- Add any discussion items for the group here.
+
+# Project Updates
+
+## OQS
+  - Add OQS update here.
+
+## PQCP
+  - Add PQCP update here.
+
+## CBOMkit
+  - Add CBOMkit update here.
+
+## Readiness Tracking WG
+  - Add Readiness Tracking WG update here.
+
+---
+# Upcoming meetings
+The PQCA TAC typically meets biweekly on Wednesdays at 7:00am PT. [Please check the calendar](https://pqca.org/calendar/) for future meetings and past recordings.
