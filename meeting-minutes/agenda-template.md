@@ -25,6 +25,33 @@ Linux Foundation meetings involve participation by industry competitors, and it 
 
 ---
 
+# Meeting Agenda
+
+## New Attendees
+- Please introduce yourself.
+
+## Announcements
+- Add any new announcements or updates here.
+
+## Discussion
+- Add any discussion items for the group here.
+
+## Project Updates
+
+### OQS
+  - Add OQS update here.
+
+### PQCP
+  - Add PQCP update here.
+
+### CBOMkit
+  - Add CBOMkit update here.
+
+### Readiness Tracking WG
+  - Add Readiness Tracking WG update here.
+    
+---
+
 ## Voting Representative Attendance
 ### Premier Member Representatives
 
@@ -47,33 +74,6 @@ Linux Foundation meetings involve participation by industry competitors, and it 
 
 ### Other Attendees
 * [ ] *Enter other attendees*
-
----
-# Meeting Agenda
-*To be entered by TAC Chair before each meeting*
-
-# New Attendees
-- Please introduce yourself.
-
-# Announcements
-- Add any new announcements or updates here.
-
-# Discussion
-- Add any discussion items for the group here.
-
-# Project Updates
-
-## OQS
-  - Add OQS update here.
-
-## PQCP
-  - Add PQCP update here.
-
-## CBOMkit
-  - Add CBOMkit update here.
-
-## Readiness Tracking WG
-  - Add Readiness Tracking WG update here.
 
 ---
 # Upcoming meetings
