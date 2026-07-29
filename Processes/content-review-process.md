@@ -62,9 +62,7 @@ View the list of current content review team members [here](https://docs.google.
 
 * Once the author approves the final version, the **Program Manager** posts the content to [**pqca.org/blog**](http://pqca.org/blog) and to the [PQCA LinkedIn page](https://www.linkedin.com/company/post-quantum-cryptography-alliance).
   
-* The PM then shares the **final contenet link** and corresponding **LinkedIn post** with the **Content Review Team** via email to confirm publication.
-
-* The published post will also be distributed to the **PQCA Outreach Committee mailing list** (outreach-committee@lists.pqca.org).
+* The PM then shares the **final content link** and corresponding **LinkedIn post** with the **Content Review Team** via email to confirm publication.
 
 ---
 
