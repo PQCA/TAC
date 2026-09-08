@@ -55,16 +55,16 @@ Linux Foundation meetings involve participation by industry competitors, and it 
 ## Voting Representative Attendance
 ### Premier Member Representatives
 
+* [ ] Andy Warner, Google
 * [ ] Brian Jarvis, AWS
-* [ ] Michael Maximilien, IBM
-* [ ] Norman Ashley, Cisco (OQS Rep)
-* [ ] Sophie Schmieg, Google
+* [ ] Joe Livingston, IBM
+* [ ] Norman Ashley, Cisco (Premier Member & OQS Rep)
 
  ### Project Representatives
-* [ ] Matthias Kannwischer, TCR
-* [ ] Hanno Becker, AWS (PQCP)
 * [ ] Andreas Schade, IBM (CBOMkit)
 * [ ] Aditya Koranga, NgKore \[TAC Chair\]
+* [ ] Matthias Kannwischer (PQCP)
+* [ ] Abhi Shelat (Longfellow)
 
 ## Non-Voting Representative Attendance
 
