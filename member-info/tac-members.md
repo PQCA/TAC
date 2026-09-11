@@ -9,18 +9,21 @@ nav_order: 1
 
 # The Post-Quantum Cryptography Alliance TAC
 
+* [Aditya Koranga, Chair][AdityaKoranga]
 * [Norman Ashley, Cisco][ashman-p]
 * [Yarkin Doroz, NVIDIA][yarkin-doroz]
-* [Brian Jarvis, Amazon, Chair][brian-jarvis-aws]
+* [Brian Jarvis, Amazon][brian-jarvis-aws]
 * [Matthias Kannwischer, zeroRISC][mkannwischer]
-* [Aditya Koranga, Vice-Chair][AdityaKoranga]
-* [Michael (Max)imilien, IBM][maximilien]
-* [Sophie Schmieg, Google][sophieschmieg]
+* [Andy Warner, Google][aww-aww]
+* Joe Livingston, IBM
+* [Abhi Shelat, Google][abhvious]
 
 Emeritus:
 
 * [Thomas Bailleux][zadlg]
 * [Spencer Wilson][SWilson4]
+* [Sophie Schmieg, Google][sophieschmieg]
+* [Michael (Max)imilien, IBM][maximilien]
 
 
 [ashman-p]: https://github.com/ashman-p
@@ -32,3 +35,5 @@ Emeritus:
 [zadlg]: https://github.com/zadlg
 [AdityaKoranga]: https://github.com/AdityaKoranga
 [mkannwischer]: https://github.com/mkannwischer
+[aww-aww]: https://github.com/aww-aww
+[abhvious]: https://github.com/abhvious
