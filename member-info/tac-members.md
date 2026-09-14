@@ -27,7 +27,7 @@ Emeritus:
 
 
 [ashman-p]: https://github.com/ashman-p
-[brian-jarvis-aws]: https://github.com/brian-jarvis-aws
+[jarvis-brian]: https://github.com/jarvis-brian
 [maximilien]: https://github.com/maximilien
 [yarkin-doroz]: https://github.com/ydoroz
 [sophieschmieg]: https://github.com/sophieschmieg
