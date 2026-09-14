@@ -12,7 +12,7 @@ nav_order: 1
 * [Aditya Koranga, Chair][AdityaKoranga]
 * [Norman Ashley, Cisco][ashman-p]
 * [Yarkin Doroz, NVIDIA][yarkin-doroz]
-* [Brian Jarvis, Amazon][brian-jarvis-aws]
+* [Brian Jarvis, Amazon][jarvis-brian]
 * [Matthias Kannwischer, zeroRISC][mkannwischer]
 * [Andy Warner, Google][aww-aww]
 * Joe Livingston, IBM
